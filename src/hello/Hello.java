@@ -6,6 +6,8 @@ public class Hello {
 
         System.out.println("Hello World");
 
+        System.out.println("B25 is Learning GIT And GITHUB");
+
 
     }
 }
