@@ -11,8 +11,7 @@ public class TestCase003 {
   // awesome code
 
   // code finished in feature branch
-
-  // this is the changes from local Intellij
-
+    
+   // This is the changes from GitHub.com`;) 
 
 }
